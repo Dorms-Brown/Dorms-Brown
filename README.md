@@ -4,7 +4,7 @@
 
 -   **_Team Members:_** - Jessica Ni (jni20), Claire Yang (cyang109), Tiger Ji (tji6), Justin Shin (jshin81)
 -   **_Total estimated:_** time - 25 hours
--   **_Link to repository:_** [Link](https://github.com/Dorms-Brown/dorms-at-brown)
+-   **_Link to repository:_** [Link](https://github.com/Dorms-Brown/Dorms-Brown)
 
 ### Projection Description
 
